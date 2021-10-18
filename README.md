@@ -1,0 +1,2 @@
+# PartyHost
+The Discord bot
