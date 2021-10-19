@@ -1,0 +1,4 @@
+flask==2.0.2
+replit==3.2.4
+discord.py==1.7.3
+ipython==7.12.0

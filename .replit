@@ -1,2 +1,0 @@
-language = "python"
-run = "./repl.deploy python ./keep-alive.py
